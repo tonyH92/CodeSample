@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 
+using HelloWorld;
 using System;
 using System.Collections;
 using System.Net;
@@ -70,7 +71,13 @@ class program
         //Console.WriteLine(testing2());
 
         //question1();
-        question2(); 
+        //question2(); 
+
+        //start LeetCode_FindTheDupNum.cs
+        //LeetCode_FindTheDupNum leetCode_FindTheDupNum = new LeetCode_FindTheDupNum();
+        //Console.WriteLine(leetCode_FindTheDupNum.FindDuplicate());
+        //end of LeetCode_FindTheDupNum.cs
+
 
         int testing2()
         {
